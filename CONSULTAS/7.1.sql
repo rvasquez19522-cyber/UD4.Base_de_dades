@@ -1,0 +1,4 @@
+Use Ex7;
+SELECT *
+FROM Producte
+WHERE CodiBarres IS NOT NULL AND IVA = 0.10;
